@@ -1,11 +1,7 @@
 {
    "users": [
-   { "user": "Jai Raj Singh",
-	  "emailId": "a@gmail.com",
-	  "password": "Dermatologist",
-	  "doctorCheckbox": false
-  },
-  { "user": "Jai Raj Singh",
+    {   "id":"1",
+		"user": "Jai Raj Singh",
 	  "emailId": "a@gmail.com",
 	  "password": "Dermatologist",
 	  "doctorCheckbox": false
@@ -14,6 +10,7 @@
   ],
   "appointments": [
       {
+		"id":"1",
 	  "name": "Jane Doe",
 	  "image": "https://example.com/doctor-image.jpg",
 	  "specialization": "Dermatologist",
@@ -24,6 +21,7 @@
 	  "fee": 150
 	},
 	{
+		"id":"1",
 	  "name": "Mark Johnson",
 	  "image": "https://example.com/doctor-image.jpg",
 	  "specialization": "Pediatrician",
